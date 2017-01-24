@@ -1,5 +1,4 @@
 <scheme name="Darcula clone" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
@@ -614,6 +613,14 @@
     <option name="OC_FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="a89d77" />
       </value>
     </option>
     <option name="PROTOCOL_REFERENCE">
