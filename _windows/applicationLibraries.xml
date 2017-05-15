@@ -222,6 +222,18 @@
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-core-2.9.15/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v2.9.16, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-core-2.9.16/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-core-2.9.16/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-core-2.9.16/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-core-2.9.16/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-core-2.9.16/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-core-2.9.16/apis" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources (v2.0.39, Remote:ruby-2.1.5-p273) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/aws-sdk-resources-2.0.39/lib" />
@@ -1112,6 +1124,16 @@
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/fission-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="flamegraph (v0.9.5, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/flamegraph-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/flamegraph-0.9.5/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/flamegraph-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/flamegraph-0.9.5/demo" />
+      </SOURCES>
+    </library>
     <library name="fog (v1.28.0, Remote:ruby-2.1.5-p273) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/fog-1.28.0/bin" />
@@ -1848,6 +1870,14 @@
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/mail-2.6.5/lib" />
       </SOURCES>
     </library>
+    <library name="memory_profiler (v0.9.8, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/memory_profiler-0.9.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/memory_profiler-0.9.8/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.8.2, Remote:ruby-2.1.5-p273) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/method_source-0.8.2/lib" />
@@ -2146,6 +2176,14 @@
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/pdf-core-0.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="pdf-core (v0.7.0, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/pdf-core-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/pdf-core-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="poltergeist (v1.6.0, Remote:ruby-2.1.5-p273) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/poltergeist-1.6.0/lib" />
@@ -2266,6 +2304,14 @@
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rack-1.6.6/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rack-1.6.6/contrib" />
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rack-1.6.6/example" />
+      </SOURCES>
+    </library>
+    <library name="rack-mini-profiler (v0.10.2, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rack-mini-profiler-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rack-mini-profiler-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v1.5.3, Remote:ruby-2.1.5-p273) [gem]">
@@ -2698,6 +2744,20 @@
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.3/samples" />
       </SOURCES>
     </library>
+    <library name="rjb (v1.5.5, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/data" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/data" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/rjb-1.5.5/samples" />
+      </SOURCES>
+    </library>
     <library name="romaji (v0.2.1, Remote:ruby-2.1.5-p273) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/romaji-0.2.1/lib" />
@@ -3014,6 +3074,20 @@
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/sshkit-1.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="stackprof (v0.2.10, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/bin" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/ext" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/stackprof-0.2.10/vendor" />
+      </SOURCES>
+    </library>
     <library name="tapp (v1.5.0, Remote:ruby-2.1.5-p273) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/tapp-1.5.0/bin" />
@@ -3200,6 +3274,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/ttfunk-1.4.0/lib" />
         <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/ttfunk-1.4.0/data" />
+      </SOURCES>
+    </library>
+    <library name="ttfunk (v1.5.1, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/ttfunk-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2017.1/system/ruby_stubs/-193563113/-278261967/gems/ttfunk-1.5.1/lib" />
       </SOURCES>
     </library>
     <library name="turbolinks (v5.0.1, Remote:ruby-2.1.5-p273) [gem]">
