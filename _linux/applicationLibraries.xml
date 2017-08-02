@@ -170,6 +170,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="annotate (v2.7.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/annotate-2.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="annotate (v2.7.2@5f37a9, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/annotate_models-5f37a974f3df/bin" />
