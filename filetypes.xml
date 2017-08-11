@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping ext="yml-example" type="PLAIN_TEXT" />
+      <mapping ext="conf-example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
