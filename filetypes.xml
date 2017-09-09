@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gitignore" type="Git file" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping ext="yml-example" type="PLAIN_TEXT" />
       <mapping ext="conf-example" type="PLAIN_TEXT" />
