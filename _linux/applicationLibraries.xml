@@ -1116,6 +1116,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/config-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coolline (v0.5.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/coolline-0.5.0/lib" />
@@ -1290,6 +1298,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/domain_name-0.5.20170404/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/domain_name-0.5.20170404/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/domain_name-0.5.20170404/tool" />
+      </SOURCES>
+    </library>
+    <library name="dotenv (v0.7.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/dotenv-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/dotenv-0.7.0/lib" />
       </SOURCES>
     </library>
     <library name="dotenv (v2.2.1, RVM: ruby-2.3.1) [gem]">
@@ -2628,6 +2644,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/oga-2.10/lib" />
       </SOURCES>
     </library>
+    <library name="oga (v2.11, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oga/2.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/oga-2.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/oga-2.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oga/2.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/oga-2.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/oga-2.11/lib" />
+      </SOURCES>
+    </library>
     <library name="oga (v2.7, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oga/2.7" />
@@ -2964,6 +2992,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-3.0.0/data" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.10.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.10.0" />
@@ -3098,6 +3138,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-mini-profiler-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-proxy (v0.6.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-proxy-0.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rack-proxy-0.6.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.3.1) [gem]">
@@ -3480,6 +3528,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rdoc-4.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rdoc-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="react_on_rails (v9.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/react_on_rails-9.0.0/rakelib" />
       </SOURCES>
     </library>
     <library name="redcarpet (v3.3.4, RVM: ruby-2.3.1) [gem]">
@@ -4664,6 +4726,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.0.1, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webpacker-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webpacker-3.0.1/package" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webpacker-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/webpacker-3.0.1/package" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.6.4, RVM: ruby-2.3.1) [gem]">
