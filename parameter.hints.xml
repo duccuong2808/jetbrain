@@ -1,8 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="TypeScript" />
-      <blacklist language="Ruby" />
-    </blacklists>
-  </component>
-</application>
