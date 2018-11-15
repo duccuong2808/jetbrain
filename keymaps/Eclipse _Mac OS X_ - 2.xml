@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+<keymap version="1" name="Eclipse (Mac OS X) - 2" parent="Eclipse (Mac OS X)">
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
