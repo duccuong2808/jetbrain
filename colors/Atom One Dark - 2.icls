@@ -4,7 +4,7 @@
     <property name="created">2018-11-15T10:28:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-15T10:28:41</property>
+    <property name="modified">2019-03-20T00:13:28</property>
     <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,10 +13,10 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
